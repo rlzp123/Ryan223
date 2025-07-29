@@ -11,6 +11,4 @@ JavaScript
   
 - 🔗 Contato: https://mail.google.com/mail/u/1/#inbox
 
-📈 rlzp123:
-
-https://github.com/rlzp123
+- 📈 rlzp123: https://github.com/rlzp123
